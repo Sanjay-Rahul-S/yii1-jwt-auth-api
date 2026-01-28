@@ -1,0 +1,38 @@
+# OS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+runtime/
+
+# Config (secrets)
+protected/config/main.php
+protected/config/db.php
+
+# Vendor (if any later)
+vendor/
+
+# Env
+.env
+
+# Yii runtime & cache
+api/protected/runtime/*
+api/assets/*
+
+# Environment configs
+api/protected/config/db.php
+
+# Composer
+vendor/
+composer.lock
+
+# OS junk
+.DS_Store
+
+# Yii framework
+yii/
+

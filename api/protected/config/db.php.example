@@ -1,0 +1,8 @@
+<?php
+return [
+    'connectionString' => 'mysql:host=localhost;dbname=your_db',
+    'username' => 'db_user',
+    'password' => 'db_password',
+    'charset' => 'utf8',
+];
+
